@@ -1,9 +1,7 @@
 # ndvistats
 Jupyter Notebook com fluxo de cálculo de estatísticas zonais para polígonos selecionados utilizando geopandas, google earth engine api, rasterio, rasterstats e folium.
 
-Originalmente desenvolvido para um teste de capacitação para entrevista. O enunciado é como abaixo:
-
-O objetivo do teste é aplicar operações em vetores e dados raster utilizando python, e elaboração de figuras em QGIS.
+O objetivo do código é aplicar operações em vetores e dados raster utilizando python, e elaboração de figuras em QGIS.
 
 Encontrar geometrias inválidas no arquivo polygons_test.GeoJSON. Propor um método de correção em python e aplicá-lo;
 Calcular a área dos polígonos em hectares;
